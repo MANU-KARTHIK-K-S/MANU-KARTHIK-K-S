@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other tech-Nerds👩‍💻
-- 🥅 2020 Goals: Contribute more to Open Source projects ⚙
+- 🥅 2021 Goals: Contribute more to Open Source projects ⚙
 - 💬 Ask me about  Any tech-related stuff.
 - ⚡ Fun fact: I love to draw🖼,listening music🎶,playing games🎮
 
