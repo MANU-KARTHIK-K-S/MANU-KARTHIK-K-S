@@ -1,4 +1,4 @@
-<h1><p align="center">Hello, I'm Manu Karthik K S! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
+<h1><p align="center">Hello,  I'm Manu Karthik K S! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
 
 <p align="center"><b>I'm a student developer.</b><br/>I <b>specialize</b> in <b>Application Development👩‍💻</b> and <b>Python🐍.</b><br><br> <i>Loves to Contribute for the Society and learn new technologies.</i><br></p><br/>
 
