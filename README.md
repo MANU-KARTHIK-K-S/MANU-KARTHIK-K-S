@@ -1,6 +1,7 @@
 <h1><p align="center">Hello,  I'm Manu Karthik K S! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
-
-<p align="center"><b>I'm a student developer.</b><br/>I <b>specialize</b> in <b>Application Development👩‍💻</b> and <b>Python🐍.</b><br><br> <i>Loves to Contribute for the Society and learn new technologies.</i><br></p><br/>
+<p align="center" data-sourcepos="16:1-16:268" dir="auto">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&width=435&separator=%3C&lines=Student+Developer+%E2%9C%AA%3CJAVA+Dev+%E2%99%9B+IoT+Dev+%3CLinux+Prodigy+%E3%83%84+App+Developer%3CCode();%3CCoffee();%3CSleep();" style="align: center;max-width: 100%;"></p>
+<!---<p align="center"><b>I'm a student developer.</b><br/>I <b>specialize</b> in <b>Application Development👩‍💻</b> and <b>Python🐍.</b><br><br> <i>Loves to Contribute for the Society and learn new technologies.</i><br></p><br/>-->
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1453406830/264/success-kid.png?1453406830" align="center"
                 width="28" /> Let's Talk Personal</h2></summary>
