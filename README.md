@@ -28,7 +28,7 @@
 <br>
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1605722420/11386/among_us_orange_dance.gif?1605722420" align="center"
-                width="28" /> Connect with me 📶</h2></summary>
+                width="28" /> Connect with me 📶 </h2></summary>
 
 <p align = "center">
   
