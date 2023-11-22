@@ -20,9 +20,9 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?flat&logo=java&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?flat&logo=c%2B%2B&logoColor=white)&nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?flat&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?flat&logo=css3&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-green?flat&logo=css3&logoColor=white)&nbsp;
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?flat&logo=flutter&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-00000F?flat&logo=mysql&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-white?flat&logo=mysql&logoColor=black)&nbsp;
 ![Git](https://img.shields.io/badge/Git-F05032?flat&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
