@@ -25,6 +25,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-white?flat&logo=mysql&logoColor=black)&nbsp;
 ![Git](https://img.shields.io/badge/Git-F05032?flat&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Webpack](https://img.shields.io/badge/-Webpack-white?style=flat&logo=webpack&logoColor=blue)&nbsp;
+![FireBase](https://img.shields.io/badge/-FireBase-white?style=flat&logo=firebase&logoColor=orange)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
