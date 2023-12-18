@@ -28,8 +28,8 @@
 ![Webpack](https://img.shields.io/badge/-Webpack-white?style=flat&logo=webpack&logoColor=blue)&nbsp;
 ![FireBase](https://img.shields.io/badge/-FireBase-white?style=flat&logo=firebase&logoColor=orange)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/-React-grey?style=flat&logo=react)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-blue?style=flat&logo=javascript)&nbsp;
 <br>
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1605722420/11386/among_us_orange_dance.gif?1605722420" align="center"
